@@ -1,5 +1,5 @@
 function Home() {
-  return <>Bom dia! Vamo Grêmio!</>;
+  return <>Eu amo você, Maria Eduarda!</>;
 }
 
 export default Home;
